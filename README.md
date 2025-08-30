@@ -1,7 +1,7 @@
 # Tai-Va-Chien
 Xe Robot điều khiển sử dụng FreeRTOS 
 GVHD: Lê Duy Hùng
-SVTH: Huỳnh Minh Chiến, Trần Văn Tài
+SVTH: Huỳnh Minh Chiến-22050025, Trần Văn Tài-22050035
 
 #Giới thiệu Dự án này hiện thực một xe robot 4 bánh điều khiển từ xa sử dụng vi điều khiển ESP32 và hệ điều hành thời gian thực FreeRTOS. Xe được trang bị kết nối Bluetooth/WiFi để nhận lệnh từ ứng dụng điện thoại thông minh, đồng thời điều khiển 4 động cơ thông qua mạch cầu H (L298N). Hệ thống áp dụng lập trình đa luồng giúp quản lý đồng thời nhiều tác vụ như nhận lệnh, xử lý tín hiệu và điều khiển chuyển động một cách ổn định và hiệu quả.
 
